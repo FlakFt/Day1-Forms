@@ -16,28 +16,45 @@ nav {
 }
 
 .nav-link {
+    background-color: dodgerblue;
     color: white;
-    margin: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 10px;
     float: right;
     position: relative;
     right: 0;
-    background-color: dodgerblue;
     text-decoration: none;
-    padding: 5px;
+    padding: 10px;
     border-radius: 4px;
 }
 
 .form-wrapper {
-    margin-top: 40px;
+    margin-top: 100px;
     background-color: white;
-    width: 40%;
-    margin: 0 auto;
+    width: 30%;
+    margin: 10% 40% 20% 35%;
+    border-radius: 4px;
 }
 
 .form-input {
-    width: 100%;
+    margin: 20px 20px 20px 20px;
+    width: 90%;
+    float: center;
+    font-size: 35px;
 }
 
 #submit-button {
     background-color: dodgerblue;
+    color: white;
+    margin: 5% 10% 0% 15%;
+    width: 70%;
+    float: center;
+    font-size: 35px;
+}
+
+h1 {
+    margin: 50% 0% 0% 40%;
+}
+
+img {
+    margin: 10% 0% 10% 9%;
 }
