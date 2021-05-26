@@ -1,0 +1,43 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(94, 170, 246);
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    background-color: aliceblue;
+}
+
+.nav-link {
+    color: white;
+    margin: 10px 10px 10px 10px;
+    float: right;
+    position: relative;
+    right: 0;
+    background-color: dodgerblue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.form-wrapper {
+    margin-top: 40px;
+    background-color: white;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.form-input {
+    width: 100%;
+}
+
+#submit-button {
+    background-color: dodgerblue;
+}
